@@ -1,4 +1,8 @@
 # Angular-PlayStation-WebClone
+This project is a clone of the PlayStation website, implemented using Angular with a focus on component reusability.
+
+
+[![PS Store Clone Screenshot](playstation.jpg)](http://localhost:4200/)
 
 # Store
 
